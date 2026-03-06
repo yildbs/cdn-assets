@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="none" viewBox="0 0 200 200">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E8E8E8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#bgGradient)"/>
+  <path d="M36 28C24 28 16 36 16 48V132C16 144 24 152 36 152H122L154 178C158 181 164 179 163 173L157 152H164C176 152 184 144 184 132V48C184 36 176 28 164 28H36Z" fill="#FFB3A7"/>
+  <g transform="translate(100 96) scale(0.9) translate(-100 -103)">
+    <path d="m99.55 37.09c-33.37 0-58.59 28.1-58.59 59.83 0 31.14 24.95 58.79 58.52 58.79 32.28 0 58.93-27.1 58.93-58.79 0-31.44-25.13-59.83-58.86-59.83z" fill="#FDC78B"/>
+    <path d="m65.72 80.06c8.69 1.02 13.53 6.67 17.15 10.69-6.68-1.82-12.85-0.59-18.35 2.56" stroke="#624B68" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7"/>
+    <path d="m134.6 80.21c-7.91 1.65-12.51 4.87-17.21 10.54 6.53-1.43 11.71-0.68 18.1 2.56" stroke="#624B68" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7"/>
+    <path d="m86.62 107.6c3.2 5.69 7.6 8.12 13.39 7.96 6.07-0.17 10.69-3.44 13.66-8.26" stroke="#624B68" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7"/>
+    <path d="m63.92 99.62c-6.54 0-10.35 2.99-10.35 5.93 0 3.53 4.17 5.76 10.54 5.76 6.08 0 10.41-3.03 10.41-5.69 0-3.09-3.66-6-10.6-6z" fill="#F78679"/>
+    <path d="m135.7 99.54c-7.15 0-10.36 3.55-10.36 5.97 0 3.36 4.45 5.62 10.55 5.62 6.68 0 10.33-3.25 10.33-5.44 0-2.91-2.66-6.15-10.52-6.15z" fill="#F78679"/>
+  </g>
+</svg>
